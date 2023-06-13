@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-sm: 14px;
+  --font-size-13xl: 32px;
+  --font-size-45xl: 64px;
+  --font-size-17xl: 36px;
+  --font-size-xl: 20px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-midnightblue: #4d1e79;
+  --color-darkcyan: #138aa4;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-31xl: 50px;
+  --br-17xl: 36px;
+}
